@@ -1,0 +1,8 @@
+body {
+	background-attachment: fixed;
+	background-image: -webkit-gradient(linear, 0 0, 100% 100%, color-stop(0.3, red), color-stop(0.6, yellow), to(purple));
+	background-image: -webkit-linear-gradient(top left, red 30%, yellow 60%, purple);
+	background-image: -moz-linear-gradient(top left, red 30%, yellow 60%, purple);
+	background-image: -o-linear-gradient(top left, red 30%, yellow 60%, purple);
+	background-image: linear-gradient(top left, red 30%, yellow 60%, purple);
+}
