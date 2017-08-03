@@ -1,6 +1,14 @@
 body {
   background-attachment: fixed;
-  background-image: -webkit-linear-gradient(top left, red 30%, yellow 60%, blue);
-  background-image: -o-linear-gradient(top left, red 30%, yellow 60%, blue);
-  background-image: linear-gradient(top left , red 30%, yellow 60%, blue);
+  background-image: -webkit-linear-gradient(top left, red 30%, yellow 60%, purple);
+  background-image: -o-linear-gradient(top left, red 30%, yellow 60%, purple);
+  background-image: linear-gradient(to bottom right, red 30%, yellow 60%, purple);
+  font-size: 10em;
+  width: 10%;
+  overflow: hidden;
+  font: 1em Arial,sans-serif;
+  -webkit-transition: ;
+  -o-transition: ;
+  transition: ;
 }
+
