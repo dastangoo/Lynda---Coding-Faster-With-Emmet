@@ -1,4 +1,4 @@
-.grid {
+ .grid {
     font-size: 0;
 }
 
@@ -8,5 +8,17 @@
 }
 
 body {
-  border-top: 67.2px solid #000;
+  marging: 10px;
+  margin: 10px;
+  margin: 10px 20px;
+  margin: 10px 20px 30px 40px;
+
+  padding: 20px;
+  padding: 20em;
+  margin: 10em !important;
+  border: 1px solid #000;
+  border-top: 2px solid #000;
+  background: #000;
+  background-image: url();
+  border: none;
 }
