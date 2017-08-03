@@ -1,0 +1,6 @@
+body {
+  background-attachment: fixed;
+  background-image: -webkit-linear-gradient(top left, red 30%, yellow 60%, purple);
+  background-image: -o-linear-gradient(top left, red 30%, yellow 60%, blue);
+  background-image: linear-gradient(top left , red 30%, yellow 60%, blue);
+}
